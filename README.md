@@ -1,5 +1,5 @@
  # Dice Game 🎲🎲
-This is a dice game that asks for players name before you start and let users roll the dice by refreshing the page.
+This is a dice game that let users roll the dice by refreshing the page.
 This is a simple dice game to play with your friend.
 
 Playing Instructions:
